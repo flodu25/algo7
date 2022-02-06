@@ -11,11 +11,11 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("/walletconnect-example-dapp/workbox-v3.6.3/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "/walletconnect-example-dapp/workbox-v3.6.3"});
+importScripts("/algo7/workbox-v3.6.3/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "/algo7/workbox-v3.6.3"});
 
 importScripts(
-  "/walletconnect-example-dapp/precache-manifest.c17ddd5f4fb50518f45acc6f2fdb6d09.js"
+  "/algo7/precache-manifest.b24677698271e4a3412e5105cefc89ba.js"
 );
 
 workbox.clientsClaim();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/walletconnect-example-dapp/index.html", {
+workbox.routing.registerNavigationRoute("/algo7/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
