@@ -15,7 +15,7 @@ importScripts("/algo7/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/algo7/workbox-v3.6.3"});
 
 importScripts(
-  "/algo7/precache-manifest.b24677698271e4a3412e5105cefc89ba.js"
+  "/algo7/precache-manifest.126f0100a8bd46cbc45f8ebf4caa558d.js"
 );
 
 workbox.clientsClaim();

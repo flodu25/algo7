@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a64db7b4f9de18b3cc29",
-    "url": "/algo7/static/js/main.a64db7b4.chunk.js"
+    "revision": "ae320874845829e8a725",
+    "url": "/algo7/static/js/main.ae320874.chunk.js"
   },
   {
-    "revision": "342c623f10d89f32facf",
-    "url": "/algo7/static/js/1.342c623f.chunk.js"
+    "revision": "d81f8d8aeab74d4c2229",
+    "url": "/algo7/static/js/1.d81f8d8a.chunk.js"
   },
   {
     "revision": "ed9bf9b93e0df4c2a1c9",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/algo7/static/media/algo.6c6f52b0.svg"
   },
   {
-    "revision": "2ee6f60bd8fe73ed7ec893d1c5df4298",
+    "revision": "e888dceb261a89738f35e2d4b3f16f38",
     "url": "/algo7/index.html"
   }
 ];
